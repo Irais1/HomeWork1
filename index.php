@@ -36,8 +36,6 @@
                 <br /> <br />
                 <!--<em>"With ordinary talent and extraordinary <strong>perserverance</strong>, all things attainable"</em><br />
                 -Thomas F. Buxton -->
-    
-            </div>
         </main>
         <!-- This is the footern -->
         <!-- tHE FOOTER GOES INSIDE THE BODY BUT NOT ALWAYS-->
