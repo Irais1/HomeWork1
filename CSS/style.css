@@ -1,0 +1,117 @@
+body{
+    background-color:#F0F8FF;
+    color:grey;
+}
+header,main,nav,footer
+{
+    text-align:center;
+}
+nav a {
+    padding: 15px;
+    padding-bottom:4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: 	#00CED1;
+}
+nav a:hover{
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+#fig1{
+    float: center;
+}
+#fig3
+{
+    float: center;
+}
+.resize1{
+    
+}
+.resize2
+{
+    width: 400px;
+}
+.resize6
+{
+    width:50%;
+    height: 50%;
+}
+
+footer{
+    clear:left;
+    font-size:1em;
+    color:#556B2F;
+}
+#fter img
+{
+    width:10%;
+}
+
+p{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 150%;
+}
+
+
+ul {
+text-align:center;
+font-size: 150%;
+}
+li {
+display: 
+    inline-block;
+}
+
+/* Centered text */
+.centered {
+    
+    transform: translate(-50%, -50%);
+    opacity: 1;
+}
+/*.relative{
+    position:relative; 
+    width:600px;
+    
+}*/
+.absolute-text
+{
+    position:absolute;
+    bottom: 0;
+    padding-bottom: 160px;
+    font-size:90%;
+    
+    /*background:rgba(251,251,251,0.5);*/
+    backface-visibility: hidden;
+    color: black;
+    
+}
+.absolute-text a{
+    font-size:100%; 
+    
+    
+}
+.absolute-text1
+{
+    position:absolute;
+    bottom: 0;
+    padding-bottom: 300px;
+    padding-left: 150px !important;
+    font-size:80%;
+    
+    /*background:rgba(251,251,251,0.5);*/
+    backface-visibility: hidden;
+    color: black !important;
+    
+}
+.absolute-text1 a{
+    font-size:100%; 
+    color:#b92b27;
+    
+}
+#mac
+{
+    color: black !important;
+}
