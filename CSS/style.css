@@ -6,6 +6,12 @@ header,main,nav,footer
 {
     text-align:center;
 }
+h1
+{
+    width: 50%;
+    text-align: center;
+    padding-left: 25%;
+}
 nav a {
     padding: 15px;
     padding-bottom:4px;
